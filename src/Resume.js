@@ -31,7 +31,8 @@ export default class Resume extends React.Component {
                     tag='h3'>
                     Diavolo - Jacques Heim
                 </Heading>
-                <Paragraph align='start'>Acrobat</Paragraph>
+                <Paragraph align="start">Acrobat: Americas Got Talent S.12 finalist & Le Plus Grande
+                Cabaret Du Monde.</Paragraph>
                 <Heading strong={true}
                     uppercase={true}
                     truncate={false}
@@ -48,9 +49,9 @@ export default class Resume extends React.Component {
                     align='start'
                     margin='none'
                     tag='h3'>
-                    Le Reve - Dragone/Wynn Las Vegas
+                    Cirque De La Mer - San Diego CA
                 </Heading>
-                <Paragraph align='start'> Acrobatic generalist 
+                <Paragraph align='start'> Acrobat/Trampwall Designer/Asst. Cast Manager/Casting
                 </Paragraph>
                 <Heading strong={true}
                     uppercase={true}
@@ -58,9 +59,10 @@ export default class Resume extends React.Component {
                     align='start'
                     margin='none'
                     tag='h3'>
-                    Le Reve - Dragone/Wynn Las Vegas
+                    Wild West Stunt Show - Knott's
                 </Heading>
-                <Paragraph align='start'> Acrobatic generalist 
+                <Paragraph align='start'> 
+                    Stunt Actor
                 </Paragraph>
                 <Heading strong={true}
                     uppercase={true}
@@ -68,9 +70,10 @@ export default class Resume extends React.Component {
                     align='start'
                     margin='none'
                     tag='h3'>
-                    Le Reve - Dragone/Wynn Las Vegas
+                    Circo Luci
                 </Heading>
-                <Paragraph align='start'> Acrobatic generalist 
+                <Paragraph align='start'> 
+                    Acrobat Character
                 </Paragraph>
                 <Heading strong={true}
                     uppercase={true}
@@ -78,9 +81,10 @@ export default class Resume extends React.Component {
                     align='start'
                     margin='none'
                     tag='h3'>
-                    Le Reve - Dragone/Wynn Las Vegas
+                    Disney
                 </Heading>
-                <Paragraph align='start'> Acrobatic generalist 
+                <Paragraph align='start'> 
+                    Acrobat: Trampoline, Bungee, Jumping Stilts
                 </Paragraph>
 
                 <Box pad='medium'
