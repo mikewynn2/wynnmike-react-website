@@ -21,15 +21,15 @@ export default class Bio extends React.Component {
                     <Hero background={<Image src='/Img/mike_wynn.jpg'
                         fit='contain'
                         align={{"top": true}} />}
-                        backgroundColorIndex='dark'
-                        size='medium' />
-
-                    <Paragraph size='large' margin='none'>
+                    backgroundColorIndex='dark'
+                    size='medium'> 
+                    </Hero>
+                    <Paragraph size='medium'>
                         Mike Wynn, self taught acrobat originally from Califonia. 
-                    Mike has been a professional acrobat since 2005 when he started his career at Disney. Since he has
-                    been lucky enough to be an acrobat on the Las Vegas strip in "Le Reve", America's Got Talent finalist with "DIAVOLO",
-                    A stunt cowboy at Knott's, Traveled around the world, and been in tv shows and movies like "Dodgeball", "Mall-cop 2", "FlashForward", and "Terriers".
-                </Paragraph>
+            Mike has been a professional acrobat since 2005 when he started his career at Disney. Since he has
+            been lucky enough to be an acrobat on the Las Vegas strip in "Le Reve", America's Got Talent finalist with "DIAVOLO",
+            A stunt cowboy at Knott's, Traveled around the world, and been in tv shows and movies like "Dodgeball", "Mall-cop 2", "FlashForward", and "Terriers".
+                    </Paragraph>
                 </Animate>
             </Section>
         );
